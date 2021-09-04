@@ -5,6 +5,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/faisalkc4u?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/faisalkc4u?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: Faisalkc](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/faisalkc/)][linkedin]
+[![Discord:Faisal](https://img.shields.io/discord/712951894531768341?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)][discord]
+
 
 - 👨🏻‍💻 &ensp;I’m currently working at [**MVP**][mvp]!
 - 🌱 &ensp;I’m currently learning Flutter ❤️
@@ -47,6 +49,7 @@
 [linkedin]: https://linkedin.com/in/faisalkc
 [github]: https://github.com/faisalkc4u
 [gitlab]: https://gitlab.com/Faisalkc4u
+[discord]: https://discord.gg/z7hrPTUdeG
 [instagram]: https://www.instagram.com/f.a.i.s.y
 [facebook]: https://www.facebook.com/faisalkcfaisy
 [mvp]: https://www.mvp-apps.ae
