@@ -15,13 +15,13 @@
 
 ### Connect With Me
 
-[<img align="left" alt="Johannes Milke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
-[<img align="left" alt="Johannes Milke | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
-[<img align="left" alt="Johannes Milke | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
-[<img align="left" alt="Johannes Milke | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
+[<img align="left" alt="Johannes Milke | YouTube" width="28px" src="https://raw.githubusercontent.com/Faisalkc4u/faisalkc4u/master/assets/youtube.png" />][youtube]
+[<img align="left" alt="Johannes Milke | Twitter" width="28px" src="https://raw.githubusercontent.com/Faisalkc4u/faisalkc4u/master/assets/twitter.png" />][twitter]
+[<img align="left" alt="Johannes Milke | LinkedIn" width="28px" src="https://raw.githubusercontent.com/Faisalkc4u/faisalkc4u/master/assets/linkedin.png" />][linkedin]
 
-[<img align="left" alt="Johannes Milke | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />][instagram]
-[<img align="left" alt="Johannes Milke | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
+[<img align="left" alt="Johannes Milke | Instagram" width="28px" src="https://raw.githubusercontent.com/Faisalkc4u/faisalkc4u/master/assets/instagram.png" />][instagram]
+[<img align="left" alt="Johannes Milke | Facebook" width="28px" src="https://raw.githubusercontent.com/Faisalkc4u/faisalkc4u/master/assets/facebook.png" />][facebook]
+[<img align="left" alt="Johannes Milke | Facebook" width="28px" src="https://raw.githubusercontent.com/Faisalkc4u/faisalkc4u/master/assets/whatsapp.png" />][whatsapp]
 
 
 <br />
@@ -46,7 +46,9 @@
 [youtube]: https://www.youtube.com/channel/UCy1uPSN4Wy9tu6XyYIW_bAw?sub_confirmation=1
 [linkedin]: https://linkedin.com/in/faisalkc
 [github]: https://github.com/faisalkc4u
+[gitlab]: https://gitlab.com/Faisalkc4u
 [instagram]: https://www.instagram.com/f.a.i.s.y
 [facebook]: https://www.facebook.com/faisalkcfaisy
 [mvp]: https://www.mvp-apps.ae
+[whatsapp]: https://wa.me/971564475626
 [email]: mailto:faisalkc4u@gmail.com
